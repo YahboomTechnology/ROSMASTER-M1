@@ -1,0 +1,11 @@
+For Jetson NANO 4GB Version:
+https://youtu.be/b8Dx1Mpsxmk
+
+For Jetson ORIN NANO Version:
+https://youtu.be/QdqYvkr8_Ag
+
+For RDK X5 Version:
+https://youtu.be/QkSBZeKa9Xc
+
+For Raspberry Pi Version:
+https://youtu.be/YzhgxadNNls
